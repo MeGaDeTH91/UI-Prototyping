@@ -632,6 +632,23 @@ header .fh5co-navbar-brand .fh5co-logo:active, header .fh5co-navbar-brand .fh5co
   color: #A7CDCC;
 }
 
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+.glyphicon-search
+{
+	margin:0px;	
+}
+
 .form-control {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
